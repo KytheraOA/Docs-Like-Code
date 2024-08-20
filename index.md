@@ -5,7 +5,7 @@ _NOTE: This was originally published on my personal blog on February 20, 2019. I
   <img src="https://github.com/user-attachments/assets/db320da1-2315-45f6-aa8c-141474252891" width="500">
 </dl>
 
-This is a tutorial for using base texture stamps to create more immersive basese for scale miniatures.
+This is a tutorial for using base texture stamps to create more immersive bases for scale miniatures.
 
 _NOTE: The company that makes the stamps used in this tutorial has gone out of business, but the same principles apply to stamps from any company (or stamps you may have 3D printed)._
 
