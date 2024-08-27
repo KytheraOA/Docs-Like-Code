@@ -4,5 +4,5 @@ This is my Docs-Like-Code/Docs-As-Code example site. It's a little rough around 
 
 ## Contents
 1. [Home page](https://kytheraoa.github.io/Docs-Like-Code/) \(you are here)
-2. How to Change 3D Printer Filament - A sample tutorial.
-3. How to Use Base Texture Stamps - A tutorial for hobby tools.
+2. [How to Change 3D Printer Filament](../filament.md) - A sample tutorial.
+3. [How to Use Base Texture Stamps](../stamps.md) - A tutorial for hobby tools.
