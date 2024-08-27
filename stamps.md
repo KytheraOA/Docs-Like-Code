@@ -1,5 +1,7 @@
 # How to Use Base Texture Stamps
-_NOTE: This was originally published on my personal blog on February 20, 2019. It has been recreated here as a docs-like-code example._
+
+> [!NOTE]
+> This was originally published on my personal blog on February 20, 2019. It has been recreated here as a docs-like-code example.
 
 <dl>
   <img src="https://github.com/user-attachments/assets/db320da1-2315-45f6-aa8c-141474252891" width="500">
