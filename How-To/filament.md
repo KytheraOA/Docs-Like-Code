@@ -48,6 +48,7 @@ If you're new to fused deposition modeling (FDM) 3D printing, changing the filam
   If you're adding the new filament right away, the nozzle may still be at temperature. If you waited or allowed the nozzle to cool down, you'll need to wait for it to heat up again.
 
 4\. Place the roll on the holder. 
+
 5\. Squeeze the filament drive lever and thread the filament through the filament drive and into the Bowden tube.
   This can be tricky if there's a lot of curl to the filament from being on the roll. Be patient.
 
