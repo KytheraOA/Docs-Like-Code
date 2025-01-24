@@ -8,7 +8,7 @@ If you're new to fused deposition modeling (FDM) 3D printing, changing the filam
 ## What You'll Need
 
 1\. An FDM printer  
-2\. A roll of compatible filament loaded into the printer
+2\. A roll of compatible filament loaded into the printer  
 3\. A second roll of filament
 
 > [!TIP]
