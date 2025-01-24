@@ -41,7 +41,7 @@ If you're new to fused deposition modeling (FDM) 3D printing, changing the filam
 ## Add the Second Roll
 
 1\. Navigate the printer menu to find the option for adding filament.
-  On my printer, the sequence is `Menu > Quick Settings > Change Filament > Add Filament`.
+  On the Duplicator i3 Mini, the sequence is `Menu > Quick Settings > Change Filament > Add Filament`.
   
 2\. Confirm the menu option.
 3\. Wait for teh nozzle to heat up.
